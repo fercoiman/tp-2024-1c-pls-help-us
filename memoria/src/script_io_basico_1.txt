@@ -1,0 +1,3 @@
+SET AX 1
+SUM BX 2
+EXIT
